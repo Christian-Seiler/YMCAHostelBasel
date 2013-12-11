@@ -10,8 +10,8 @@
 
 @interface RoomsDetailVC : UIViewController
 
-@property (strong, nonatomic) IBOutlet UINavigationItem *roomName;
-@property (strong, nonatomic) IBOutlet UILabel *priceLabel;
+@property (weak, nonatomic) IBOutlet UINavigationItem *roomName;
+@property (weak, nonatomic) IBOutlet UILabel *priceLabel;
 @property (weak, nonatomic) IBOutlet UITextView *descriptionTextView;
 
 @property (strong, nonatomic) NSString *roomNameString;
