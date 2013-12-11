@@ -162,10 +162,10 @@
 		00502C61183E1FAD0015647B /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/Localizable.strings; sourceTree = "<group>"; };
 		00502C62183E1FAD0015647B /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = fr; path = fr.lproj/Credits.rtf; sourceTree = "<group>"; };
 		00502C63183E1FAD0015647B /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = fr; path = fr.lproj/agb.plist; sourceTree = "<group>"; };
-		00502C64183E1FAD0015647B /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = fr; path = fr.lproj/room.plist; sourceTree = "<group>"; };
 		00502C65183E1FAD0015647B /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		0051623D17FA075400FB751E /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = de; path = Hostel/de.lproj/room.plist; sourceTree = "<group>"; };
 		0051623E17FA075B00FB751E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = en; path = Hostel/en.lproj/room.plist; sourceTree = "<group>"; };
+		00516DD81858C2700062EA0D /* fr */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; name = fr; path = Hostel/fr.lproj/room.plist; sourceTree = "<group>"; };
 		0058C7E817BEB9FA000F29A9 /* Icon-Small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small.png"; sourceTree = "<group>"; };
 		0064DB4918338AE10070907C /* de */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; name = de; path = de.lproj/agb.plist; sourceTree = "<group>"; };
 		0064DB4A18338AE30070907C /* en */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; name = en; path = en.lproj/agb.plist; sourceTree = "<group>"; };
@@ -720,7 +720,7 @@
 				009D7ECC17C6B78400386689 /* Base */,
 				0051623D17FA075400FB751E /* de */,
 				0051623E17FA075B00FB751E /* en */,
-				00502C64183E1FAD0015647B /* fr */,
+				00516DD81858C2700062EA0D /* fr */,
 			);
 			name = room.plist;
 			path = ..;
