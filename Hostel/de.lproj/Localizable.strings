@@ -1,0 +1,76 @@
+/* OK - Alert back
+   OK - Mailing configure */
+
+/* Action denied */
+"Action denied" = "Aktion abgelehnt";
+
+/* Airport Basel */
+"AirportAnnotation" = "EuroFlughafen Basel";
+
+/* OK - Alert back
+   OK - Mailing configure */
+"AlertBack" = "OK";
+
+/* Ok - Alerts */
+"AlertOK" = "OK";
+
+/* Call Hostel */
+"Call" = "Hostel anrufen";
+
+/* Call Hostel */
+"Call Hostel" = "Hostel anrufen";
+
+/* Cancel */
+"CancelCall" = "Abbrechen";
+
+/* rulesRoomsSectionHeader */
+"Houserules" = "Hausregeln";
+
+/* ImpressumTitle */
+"Impressum" = "Impressum";
+
+/* MapView Networkerror */
+"NetworkError" = "Netzwerkfehler";
+
+/* No Internet available */
+"NetworkErrorMessage" = "Oops, die Karte kann nicht geladen werden. Bitte prüfe die Internetverbindung.";
+
+/* price */
+"Price" = "Preis";
+
+/* Reservation Navigation Title */
+"Reservation" = "Reservation";
+
+/* roomsTitle */
+"Rooms" = "Zimmer";
+
+/* termsSectionHeader */
+"Terms" = "Allgemeine Geschäftsbedingungen";
+
+/* agbTitle */
+"Terms & Conditions" = "Allgemeine Geschäftsbedingungen";
+
+/* Trainstation SBB */
+"TrainstationAnnotation" = "Bahnhof SBB";
+
+/* YMCA Hostel Basel */
+"YMCAAnnotation" = "YMCA Hostel Basel";
+
+/* You need an iPhone to make the call */
+"You need an iPhone to make the call" = "Oops, Du brauchst ein iPhone um einen Anruf zu starten.";
+
+/* Configure Mail */
+"configureMail" = "Konfiguriere Mail";
+
+/* You need configure your Mail. */
+"configureMailMessage." = "Oops, Du musst dein Mail konfigurieren!";
+
+/* dormsSectionHeader */
+"dorms" = "Schlafsaal";
+
+/* privateRoomsSectionHeader */
+"private Rooms" = "Private Zimmer";
+
+/* studiosSectionHeader */
+"studios" = "Studios";
+
