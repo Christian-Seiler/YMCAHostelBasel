@@ -1,0 +1,54 @@
+/* Class = "IBUITabBarItem"; title = "Reservation"; ObjectID = "2Lc-Te-3El"; */
+"2Lc-Te-3El.title" = "Reservation";
+
+/* Class = "IBUILabel"; text = "Description"; ObjectID = "8em-va-YSf"; */
+"8em-va-YSf.text" = "Description";
+
+/* Class = "IBUITabBarItem"; title = "Impressum"; ObjectID = "9AF-MJ-rxa"; */
+"9AF-MJ-rxa.title" = "Imprint";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "AXg-HR-m9x"; */
+"AXg-HR-m9x.text" = "Label";
+
+/* Class = "IBUIBarButtonItem"; title = "Back"; ObjectID = "Ajt-2J-e3v"; */
+"Ajt-2J-e3v.title" = "Back";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "G75-40-p2i"; */
+"G75-40-p2i.text" = "Label";
+
+/* Class = "IBUIButton"; normalTitle = "mail"; ObjectID = "LDd-gr-QTN"; */
+"LDd-gr-QTN.normalTitle" = "Send an eMail";
+
+/* Class = "IBUIButton"; normalTitle = "call"; ObjectID = "MxO-ht-5wA"; */
+"MxO-ht-5wA.normalTitle" = "Call Hostel";
+
+/* Class = "IBUILabel"; text = "Price"; ObjectID = "NHP-6R-pk6"; */
+"NHP-6R-pk6.text" = "Price";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "P7p-CB-ap4"; */
+"P7p-CB-ap4.text" = "Title";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "RjX-fS-pff"; */
+"RjX-fS-pff.normalTitle" = "Terms & Conditions";
+
+/* Class = "IBUITabBarItem"; title = "Rooms"; ObjectID = "SiY-xG-Rmt"; */
+"SiY-xG-Rmt.title" = "Rooms";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "ayg-Uz-J4D"; */
+"ayg-Uz-J4D.text" = "Title";
+
+/* Class = "IBUITabBarItem"; title = "Contact"; ObjectID = "btv-6x-N9n"; */
+"btv-6x-N9n.title" = "Contact";
+
+/* Class = "IBUILabel"; text = "YMCA Hostel Basel"; ObjectID = "lzg-X6-Afo"; */
+"lzg-X6-Afo.text" = "YMCA Hostel Basel\nGempenstrasse 64\nCH-4053 Basel";
+
+/* Class = "IBUILabel"; text = "Version: 1.1"; ObjectID = "n04-6W-IdV"; */
+"n04-6W-IdV.text" = "Version: 1.1";
+
+/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "rhW-Mc-yLA"; */
+"rhW-Mc-yLA.text" = "Subtitle";
+
+/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "zOC-je-2hj"; */
+"zOC-je-2hj.text" = "Subtitle";
+
