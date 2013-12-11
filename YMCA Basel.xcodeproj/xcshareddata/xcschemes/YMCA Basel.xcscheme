@@ -28,6 +28,16 @@
       shouldUseLaunchSchemeArgsEnv = "YES"
       buildConfiguration = "Debug">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "0068AD7617F471B8003E59A2"
+               BuildableName = "YMCA Basel Tests.xctest"
+               BlueprintName = "YMCA Basel Tests"
+               ReferencedContainer = "container:YMCA Basel.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
