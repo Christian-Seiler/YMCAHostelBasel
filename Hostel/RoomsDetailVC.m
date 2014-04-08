@@ -39,11 +39,8 @@
 - (void)setImage {
     if (self.scrollView) {
         NSString *imageName = [self.roomImageString description];
-        NSURL *imageURL = [[NSBundle mainBundle] URLForResource:imageName withExtension:@"png"];
-        NSData *imageData = [[NSData alloc] initWithContentsOfURL:imageURL];
         
-        
-        UIImage *image = [[UIImage alloc] initWithData:imageData];
+        UIImage *image = [UIImage imageNamed:imageName];
         if (image) {
             self.scrollView.zoomScale = 1.0;
             self.scrollView.contentSize = image.size;
@@ -60,5 +57,4 @@
     return _imageView;
     NSLog(@"imageView");
 }
-
 @end

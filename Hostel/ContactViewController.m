@@ -57,7 +57,7 @@
     return !(networkStatus == NotReachable);
 }
 
-#pragma mark - mapBehaviour
+#pragma mark - MapView Behahiour
 
 - (void)mapViewWillStartLoadingMap:(MKMapView *)mapView {
     [[UIApplication sharedApplication] setNetworkActivityIndicatorVisible:YES];
@@ -101,10 +101,10 @@
 }
 
 - (void)mapView:(MKMapView *)mapView annotationView:(MKAnnotationView *)view calloutAccessoryControlTapped:(UIControl *)control {
-    [self performSegueWithIdentifier: @"detailMap" sender:self];
+    [self performSegueWithIdentifier: @"Show Map" sender:view];
 }
 
-#pragma mark - mailButton
+#pragma mark - mail Button
 
 - (IBAction)mailButton:(id)sender {
     if ([MFMailComposeViewController canSendMail])
@@ -148,7 +148,7 @@
 	[self dismissViewControllerAnimated:YES completion:NULL];
 }
 
-#pragma mark - callButton
+#pragma mark - call Button
 
 - (IBAction)callButton:(id)sender {
     NSString *deviceType = [UIDevice currentDevice].model;

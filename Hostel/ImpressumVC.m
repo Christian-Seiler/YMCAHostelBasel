@@ -9,6 +9,7 @@
 #import "ImpressumVC.h"
 
 @interface ImpressumVC ()
+
 @property (weak, nonatomic) IBOutlet UINavigationItem *impressumTitle;
 
 @end
@@ -41,8 +42,7 @@
     self.impressumTitle.title = NSLocalizedString(@"Impressum", @"ImpressumTitle");
 }
 
-
-
 - (IBAction)termsButton:(id)sender {
 }
+
 @end

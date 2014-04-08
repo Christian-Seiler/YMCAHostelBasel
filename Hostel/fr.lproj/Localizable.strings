@@ -29,6 +29,12 @@
 /* ImpressumTitle */
 "Impressum" = "Impressum";
 
+/* MapView Networkerror */
+"NetworkError" = "Erreur de réseau";
+
+/* No Internet available */
+"NetworkErrorMessage" = "Oops, les cartes ne pourraient pas charger. Vérifier votre connexion Internet s.v.p.";
+
 /* price */
 "Price" = "Prix";
 

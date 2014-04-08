@@ -14,5 +14,4 @@
 @property (strong, nonatomic) IBOutlet UILabel *versionLabel;
 
 - (IBAction)termsButton:(id)sender;
-
 @end

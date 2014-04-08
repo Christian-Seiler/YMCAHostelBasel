@@ -30,7 +30,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    
+        
     self.room = [[NSArray alloc] initWithContentsOfURL:[[NSBundle mainBundle] URLForResource:@"room" withExtension:@"plist"]];
     self.roomsTitle.title = NSLocalizedString(@"Rooms", @"roomsTitle");
 }

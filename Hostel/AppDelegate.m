@@ -7,13 +7,14 @@
 //
 
 #import "AppDelegate.h"
+#import "YMCAIAPHelper.h"
 
 @implementation AppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
-    [[UINavigationBar appearance] setBarTintColor:[UIColor redColor]]; // use Image with logo as bg:
+//    [[UINavigationBar appearance] setBarTintColor:[UIColor redColor]]; // use Image with logo as bg:
     //[[UINavigationBar appearance] setBackgroundImage:[UIImage imageNamed:@"nav_bg.png"] forBarMetrics:UIBarMetricsDefault];
     // 320 x 64 px
 
@@ -22,6 +23,7 @@
     NSString *appBuildString = [[NSBundle mainBundle] objectForInfoDictionaryKey:@"CFBundleVersion"];
     [[NSUserDefaults standardUserDefaults] setObject:appBuildString forKey:@"currentBuildKey"];
     return YES;
+    [YMCAIAPHelper sharedInstance];
 }
 							
 - (void)applicationWillResignActive:(UIApplication *)application
