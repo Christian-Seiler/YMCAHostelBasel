@@ -5,34 +5,34 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>C6ECA3E5-232B-434C-A1A3-1E3EEA46F88E</string>
+	<string>01673E0A-2FF2-4CA3-8A48-452B53C7064A</string>
 	<key>IDESourceControlProjectName</key>
 	<string>YMCA Basel</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>6D1E4925-C306-43AD-8CBE-CB8702127323</key>
-		<string>ssh://Server.local/git/YMCA_Hostel_Basel.git</string>
+		<key>81CC2F06DEF8FFED75530663731989E8F76DE63B</key>
+		<string>ssh://server.local/git/YMCA_Hostel_Basel.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>YMCA Basel.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>6D1E4925-C306-43AD-8CBE-CB8702127323</key>
+		<key>81CC2F06DEF8FFED75530663731989E8F76DE63B</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>ssh://Server.local/git/YMCA_Hostel_Basel.git</string>
+	<string>ssh://server.local/git/YMCA_Hostel_Basel.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>6D1E4925-C306-43AD-8CBE-CB8702127323</string>
+	<string>81CC2F06DEF8FFED75530663731989E8F76DE63B</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>6D1E4925-C306-43AD-8CBE-CB8702127323</string>
+			<string>81CC2F06DEF8FFED75530663731989E8F76DE63B</string>
 			<key>IDESourceControlWCCName</key>
 			<string>YMCA_Hostel_Basel</string>
 		</dict>

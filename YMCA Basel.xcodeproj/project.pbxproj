@@ -10,11 +10,11 @@
 		000C58F91852370E00DDF848 /* Reachability.m in Sources */ = {isa = PBXBuildFile; fileRef = 000C58F81852370E00DDF848 /* Reachability.m */; };
 		000C58FB185237F600DDF848 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 000C58FA185237F600DDF848 /* SystemConfiguration.framework */; };
 		0010388417E64ABA007365BA /* ImpressumVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 0010388317E64ABA007365BA /* ImpressumVC.m */; };
-		001EEE5F1832A302000EFEC5 /* iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 001EEE611832A302000EFEC5 /* iPhone.storyboard */; };
 		002A2CCB17F46A8F009F72E1 /* agb.plist in Resources */ = {isa = PBXBuildFile; fileRef = 002A2CC917F46A8F009F72E1 /* agb.plist */; };
 		003A229617CDD0FF00D898E0 /* AGBViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 003A229517CDD0FF00D898E0 /* AGBViewController.m */; };
 		003A229917CE274700D898E0 /* agbDetailVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 003A229817CE274700D898E0 /* agbDetailVC.m */; };
 		0047C58A18338D0A00C56163 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0047C58818338D0A00C56163 /* Localizable.strings */; };
+		005C59E218F40B90009FA6C6 /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 003E4A62189E10F40038EFDC /* iAd.framework */; };
 		0068AD7917F471B8003E59A2 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0068AD7817F471B8003E59A2 /* XCTest.framework */; };
 		0068AD7A17F471B8003E59A2 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 00D324EA17B8E22C008F530D /* Foundation.framework */; };
 		0068AD7B17F471B8003E59A2 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 00D324E817B8E22C008F530D /* UIKit.framework */; };
@@ -61,34 +61,31 @@
 		000C58FA185237F600DDF848 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
 		0010388217E64ABA007365BA /* ImpressumVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ImpressumVC.h; sourceTree = "<group>"; };
 		0010388317E64ABA007365BA /* ImpressumVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ImpressumVC.m; sourceTree = "<group>"; };
-		001EEE601832A302000EFEC5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/iPhone.storyboard; sourceTree = "<group>"; };
 		002A2CCA17F46A8F009F72E1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = Base; path = Base.lproj/agb.plist; sourceTree = "<group>"; };
 		003A229417CDD0FF00D898E0 /* AGBViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AGBViewController.h; sourceTree = "<group>"; };
 		003A229517CDD0FF00D898E0 /* AGBViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AGBViewController.m; sourceTree = "<group>"; };
 		003A229717CE274700D898E0 /* agbDetailVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = agbDetailVC.h; sourceTree = "<group>"; };
 		003A229817CE274700D898E0 /* agbDetailVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = agbDetailVC.m; sourceTree = "<group>"; };
 		003E4A62189E10F40038EFDC /* iAd.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = iAd.framework; path = System/Library/Frameworks/iAd.framework; sourceTree = SDKROOT; };
-		0047C58518338CBB00C56163 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/iPhone.strings; sourceTree = "<group>"; };
-		0047C58718338CCA00C56163 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/iPhone.strings; sourceTree = "<group>"; };
 		0047C58918338D0A00C56163 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Localizable.strings; sourceTree = "<group>"; };
 		0047C58B18338D1300C56163 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
 		0047C58C18338D1800C56163 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = Base; path = Base.lproj/Localizable.strings; sourceTree = "<group>"; };
-		00502C60183E1FAD0015647B /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/iPhone.strings; sourceTree = "<group>"; };
 		00502C61183E1FAD0015647B /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/Localizable.strings; sourceTree = "<group>"; };
 		00502C62183E1FAD0015647B /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = fr; path = fr.lproj/Credits.rtf; sourceTree = "<group>"; };
 		00502C63183E1FAD0015647B /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = fr; path = fr.lproj/agb.plist; sourceTree = "<group>"; };
-		00502C65183E1FAD0015647B /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		0051623D17FA075400FB751E /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = de; path = Hostel/de.lproj/room.plist; sourceTree = "<group>"; };
 		0051623E17FA075B00FB751E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = en; path = Hostel/en.lproj/room.plist; sourceTree = "<group>"; };
 		00516DD81858C2700062EA0D /* fr */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; name = fr; path = Hostel/fr.lproj/room.plist; sourceTree = "<group>"; };
+		005C599A18F3F849009FA6C6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = Base; path = Base.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		005C599B18F3F852009FA6C6 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		005C599C18F3F853009FA6C6 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		005C599D18F3F894009FA6C6 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		0064DB4918338AE10070907C /* de */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; name = de; path = de.lproj/agb.plist; sourceTree = "<group>"; };
 		0064DB4A18338AE30070907C /* en */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; name = en; path = en.lproj/agb.plist; sourceTree = "<group>"; };
 		0068AD7717F471B8003E59A2 /* YMCA Basel Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "YMCA Basel Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0068AD7817F471B8003E59A2 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		0068AD7E17F471B8003E59A2 /* YMCA Basel Tests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "YMCA Basel Tests-Info.plist"; sourceTree = "<group>"; };
-		0068AD8017F471B8003E59A2 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		0068AD8217F471B8003E59A2 /* YMCA_Basel_Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YMCA_Basel_Tests.m; sourceTree = "<group>"; };
-		0068AD8417F471B8003E59A2 /* YMCA Basel Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "YMCA Basel Tests-Prefix.pch"; sourceTree = "<group>"; };
 		00733A9917F025F9004D18A6 /* Settings.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = Settings.bundle; sourceTree = "<group>"; };
 		007AEECC17F44FA7008DC436 /* update_storyboard_strings.sh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; name = update_storyboard_strings.sh; path = Scripts/update_storyboard_strings.sh; sourceTree = "<group>"; };
 		00869AA0182E68BF00BC3ACC /* DetailMapVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailMapVC.h; sourceTree = "<group>"; };
@@ -126,6 +123,7 @@
 		00EE550C17BFCF9000D8C6A0 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
 		00EE550E17BFCFA300D8C6A0 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
 		00EE551017BFCFB200D8C6A0 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		00F060081903AE140063220E /* YMCA Basel Tests-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "YMCA Basel Tests-Prefix.pch"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -143,6 +141,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				005C59E218F40B90009FA6C6 /* iAd.framework in Frameworks */,
 				00BD35DD189CB7EB00E90D44 /* StoreKit.framework in Frameworks */,
 				000C58FB185237F600DDF848 /* SystemConfiguration.framework in Frameworks */,
 				00EE551117BFCFB200D8C6A0 /* QuartzCore.framework in Frameworks */,
@@ -193,6 +192,15 @@
 			name = "Localized Data";
 			sourceTree = "<group>";
 		};
+		005C59E318F41854009FA6C6 /* Reservation */ = {
+			isa = PBXGroup;
+			children = (
+				00869AA4182E68FA00BC3ACC /* ReservationViewController.h */,
+				00869AA5182E68FA00BC3ACC /* ReservationViewController.m */,
+			);
+			name = Reservation;
+			sourceTree = "<group>";
+		};
 		0068AD7C17F471B8003E59A2 /* YMCA Basel Tests */ = {
 			isa = PBXGroup;
 			children = (
@@ -205,9 +213,9 @@
 		0068AD7D17F471B8003E59A2 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				00F060081903AE140063220E /* YMCA Basel Tests-Prefix.pch */,
 				0068AD7E17F471B8003E59A2 /* YMCA Basel Tests-Info.plist */,
 				0068AD7F17F471B8003E59A2 /* InfoPlist.strings */,
-				0068AD8417F471B8003E59A2 /* YMCA Basel Tests-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -287,14 +295,12 @@
 		00D324EE17B8E22C008F530D /* YMCA Basel */ = {
 			isa = PBXGroup;
 			children = (
-				001EEE611832A302000EFEC5 /* iPhone.storyboard */,
 				0033989817D2579B00541427 /* Localized Data */,
 				00869A9F182E67E300BC3ACC /* Model */,
 				00869AA3182E68C800BC3ACC /* Contact */,
 				001B5175182AB19800FC7564 /* Rooms */,
 				001B5174182AB18E00FC7564 /* Impressum */,
-				00869AA4182E68FA00BC3ACC /* ReservationViewController.h */,
-				00869AA5182E68FA00BC3ACC /* ReservationViewController.m */,
+				005C59E318F41854009FA6C6 /* Reservation */,
 				00D324EF17B8E22C008F530D /* Supporting Files */,
 			);
 			name = "YMCA Basel";
@@ -360,7 +366,7 @@
 		00D324DD17B8E22C008F530D /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0500;
+				LastUpgradeCheck = 0510;
 				ORGANIZATIONNAME = "YMCA Hostel Basel";
 				TargetAttributes = {
 					0068AD7617F471B8003E59A2 = {
@@ -417,7 +423,6 @@
 				0047C58A18338D0A00C56163 /* Localizable.strings in Resources */,
 				009D7ECD17C6B78400386689 /* room.plist in Resources */,
 				007AEECD17F44FA7008DC436 /* update_storyboard_strings.sh in Resources */,
-				001EEE5F1832A302000EFEC5 /* iPhone.storyboard in Resources */,
 				008A12A017CCCA0800D774DA /* Images.xcassets in Resources */,
 				00A5E55017F9C667006B2A17 /* Credits.rtf in Resources */,
 			);
@@ -482,17 +487,6 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		001EEE611832A302000EFEC5 /* iPhone.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				001EEE601832A302000EFEC5 /* Base */,
-				0047C58518338CBB00C56163 /* en */,
-				0047C58718338CCA00C56163 /* de */,
-				00502C60183E1FAD0015647B /* fr */,
-			);
-			name = iPhone.storyboard;
-			sourceTree = "<group>";
-		};
 		002A2CC917F46A8F009F72E1 /* agb.plist */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -518,8 +512,10 @@
 		0068AD7F17F471B8003E59A2 /* InfoPlist.strings */ = {
 			isa = PBXVariantGroup;
 			children = (
-				0068AD8017F471B8003E59A2 /* en */,
-				00502C65183E1FAD0015647B /* fr */,
+				005C599A18F3F849009FA6C6 /* Base */,
+				005C599B18F3F852009FA6C6 /* de */,
+				005C599C18F3F853009FA6C6 /* fr */,
+				005C599D18F3F894009FA6C6 /* en */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
@@ -553,7 +549,6 @@
 		0068AD8717F471B8003E59A2 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
 				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/YMCA Basel.app/YMCA Basel";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
@@ -585,7 +580,6 @@
 		0068AD8817F471B8003E59A2 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
 				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/YMCA Basel.app/YMCA Basel";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
