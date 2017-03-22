@@ -1,0 +1,76 @@
+/* OK - Alert back
+   OK - Mailing configure */
+
+/* Action denied */
+"Action denied" = "작업 거부";
+
+/* Airport Basel */
+"AirportAnnotation" = "EuroAirport 바젤";
+
+/* OK - Alert back
+   OK - Mailing configure */
+"AlertBack" = "돌아 가기";
+
+/* Ok - Alerts */
+"AlertOK" = "확인";
+
+/* Call Hostel */
+"Call" = "호스텔 전화";
+
+/* Call Hostel */
+"Call Hostel" = "호스텔 전화";
+
+/* Cancel */
+"CancelCall" = "취소";
+
+/* rulesRoomsSectionHeader */
+"Houserules" = "집 규칙";
+
+/* ImpressumTitle */
+"Impressum" = "상표";
+
+/* MapView Networkerror */
+"NetworkError" = "네트워크 오류";
+
+/* No Internet available */
+"NetworkErrorMessage" = "아차,지도는로드 할 수 없습니다. 인터넷 연결을 확인하시기 바랍니다.";
+
+/* price */
+"Price" = "가격";
+
+/* Reservation Navigation Title */
+"Reservation" = "예약";
+
+/* roomsTitle */
+"Rooms" = "방";
+
+/* termsSectionHeader */
+"Terms" = "이용 약관";
+
+/* agbTitle */
+"Terms & Conditions" = "이용 약관";
+
+/* Trainstation SBB */
+"TrainstationAnnotation" = "SBB 역";
+
+/* YMCA Hostel Basel */
+"YMCAAnnotation" = "YMCA 호스텔 바젤";
+
+/* You need an iPhone to make the call */
+"You need an iPhone to make the call" = "아차, 당신은 통화를 시작할 수 있습니다 아이폰이 필요합니다.";
+
+/* Configure Mail */
+"configureMail" = "구성 메일";
+
+/* You need configure your Mail. */
+"configureMailMessage." = "아차, 당신은 당신의 메일을 구성해야합니다.";
+
+/* dormsSectionHeader */
+"dorms" = "기숙사";
+
+/* privateRoomsSectionHeader */
+"private Rooms" = "개인 실";
+
+/* studiosSectionHeader */
+"studios" = "스튜디오";
+

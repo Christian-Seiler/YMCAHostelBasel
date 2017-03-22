@@ -11,17 +11,17 @@
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>81CC2F06DEF8FFED75530663731989E8F76DE63B</key>
-		<string>ssh://server.local/git/YMCA_Hostel_Basel.git</string>
+		<string>ssh://Christian%20Seiler@server.local/git/YMCA_Hostel_Basel.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>YMCA Basel.xcodeproj/project.xcworkspace</string>
+	<string>YMCA Basel.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>81CC2F06DEF8FFED75530663731989E8F76DE63B</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>ssh://server.local/git/YMCA_Hostel_Basel.git</string>
+	<string>ssh://Christian%20Seiler@server.local/git/YMCA_Hostel_Basel.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>

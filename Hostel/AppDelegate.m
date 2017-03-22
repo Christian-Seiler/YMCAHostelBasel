@@ -67,6 +67,7 @@
     
     // Display the indicator as long as our static counter is > 0.
     [[UIApplication sharedApplication] setNetworkActivityIndicatorVisible:(NumberOfCallsToSetVisible > 0)];
+    NSLog(@"Calls = %ld", (long)NumberOfCallsToSetVisible);
 }
 
 @end

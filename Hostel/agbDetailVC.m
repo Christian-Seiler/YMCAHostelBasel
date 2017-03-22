@@ -10,14 +10,13 @@
 
 @interface agbDetailVC ()
 @property (weak, nonatomic) IBOutlet UIScrollView *scrollView;
-//@property (weak, nonatomic) IBOutlet UILabel *agbLabel;
+@property (weak, nonatomic) IBOutlet UILabel *agbLabel;
 
 @end
 
 @implementation agbDetailVC
 
-@synthesize agbTitle;
-@synthesize scrollView;
+@synthesize agbTitle, scrollView, agbLabel;
 
 - (void)viewDidLoad
 {
@@ -27,10 +26,13 @@
     [self setText];
 }
 
+- (void)viewDidAppear:(BOOL)animated {
+    self.scrollView.contentSize = agbLabel.frame.size;
+    [self.scrollView setNeedsDisplay];
+}
+
 - (void)setText {
-    UILabel *agbTextLabel = [[UILabel alloc] init];
-    [self.scrollView addSubview:agbTextLabel];
-    agbTextLabel.text = [self.agbTextString description];
+    agbLabel.text = [self.agbTextString description];
 }
 
 @end

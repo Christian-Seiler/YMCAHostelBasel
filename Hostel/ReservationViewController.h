@@ -7,9 +7,13 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <iAd/iAd.h>
+#import "Reachability.h"
+#import <SystemConfiguration/SystemConfiguration.h>
 
-@interface ReservationViewController : UIViewController
+@interface ReservationViewController : UIViewController <ADBannerViewDelegate, UIWebViewDelegate>
 
 @property (nonatomic) NSURL *url;
+- (BOOL)connected;
 
 @end

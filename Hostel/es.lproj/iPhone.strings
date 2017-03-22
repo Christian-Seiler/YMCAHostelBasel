@@ -1,69 +1,78 @@
-
 /* Class = "IBUITabBarItem"; title = "Reservation"; ObjectID = "2Lc-Te-3El"; */
-"2Lc-Te-3El.title" = "Reservation";
+"2Lc-Te-3El.title" = "Reserva";
 
-/* Class = "IBUILabel"; text = "bookinglabel"; ObjectID = "87Q-Xq-iYs"; */
-"87Q-Xq-iYs.text" = "bookinglabel";
+/* Class = "IBUILabel"; text = "bookingLabel"; ObjectID = "87Q-Xq-iYs"; */
+"87Q-Xq-iYs.text" = "Reservas: \ninfo@ymcahostelbasel.ch";
+
+/* Class = "IBUILabel"; text = "Description"; ObjectID = "8em-va-YSf"; */
+"8em-va-YSf.text" = "Descripción";
 
 /* Class = "IBUITabBarItem"; title = "Impressum"; ObjectID = "9AF-MJ-rxa"; */
-"9AF-MJ-rxa.title" = "Impressum";
+"9AF-MJ-rxa.title" = "Pie de imprenta";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "AXg-HR-m9x"; */
+"AXg-HR-m9x.text" = "Label";
 
 /* Class = "IBUIBarButtonItem"; title = "Back"; ObjectID = "Ajt-2J-e3v"; */
-"Ajt-2J-e3v.title" = "Back";
+"Ajt-2J-e3v.title" = "Volver";
 
 /* Class = "IBUILabel"; text = "informationLabel"; ObjectID = "FmH-dz-8ri"; */
-"FmH-dz-8ri.text" = "informationLabel";
+"FmH-dz-8ri.text" = "Información: \nYMCA Hostel Basel \nGempenstrasse 64 \nCH-5034 Basilea \ninfo@ymcahostelbasel.ch";
 
-/* Class = "IBUILabel"; text = "Please wait..."; ObjectID = "GLi-rC-dk6"; */
-"GLi-rC-dk6.text" = "Please wait...";
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "G75-40-p2i"; */
+"G75-40-p2i.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "GLi-rC-dk6"; */
+"GLi-rC-dk6.text" = "Por favor espera ...";
 
 /* Class = "IBUIButton"; normalTitle = "mail"; ObjectID = "LDd-gr-QTN"; */
-"LDd-gr-QTN.normalTitle" = "mail";
+"LDd-gr-QTN.normalTitle" = "Enviar un e-mail";
 
 /* Class = "IBUIButton"; normalTitle = "call"; ObjectID = "MxO-ht-5wA"; */
-"MxO-ht-5wA.normalTitle" = "call";
+"MxO-ht-5wA.normalTitle" = "Llame Hostel";
 
 /* Class = "IBUILabel"; text = "Price"; ObjectID = "NHP-6R-pk6"; */
-"NHP-6R-pk6.text" = "Price";
+"NHP-6R-pk6.text" = "Precio";
 
 /* Class = "IBUILabel"; text = "Title"; ObjectID = "P7p-CB-ap4"; */
 "P7p-CB-ap4.text" = "Title";
 
 /* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "RjX-fS-pff"; */
-"RjX-fS-pff.normalTitle" = "Button";
+"RjX-fS-pff.normalTitle" = "Términos y condiciones";
 
 /* Class = "IBUITabBarItem"; title = "Rooms"; ObjectID = "SiY-xG-Rmt"; */
-"SiY-xG-Rmt.title" = "Rooms";
+"SiY-xG-Rmt.title" = "Habitaciones";
 
-/* Class = "IBUILabel"; text = "bookinglabel"; ObjectID = "atw-66-KcG"; */
-"atw-66-KcG.text" = "bookinglabel";
+/* Class = "IBUILabel"; text = "legalLabel"; ObjectID = "atw-66-KcG"; */
+"atw-66-KcG.text" = "Nota: Christian Seiler La fotografía es de ninguna manera afiliado con el YMCA Hostel Basel. La aplicación es la propiedad legal de Christian Seiler Fotografía. La Compañía no se hace responsable de los errores.";
 
 /* Class = "IBUILabel"; text = "Title"; ObjectID = "ayg-Uz-J4D"; */
 "ayg-Uz-J4D.text" = "Title";
 
 /* Class = "IBUITabBarItem"; title = "Contact"; ObjectID = "btv-6x-N9n"; */
-"btv-6x-N9n.title" = "Contact";
+"btv-6x-N9n.title" = "Contacto";
 
 /* Class = "IBUITextView"; text = "Description"; ObjectID = "dAi-Jv-644"; */
 "dAi-Jv-644.text" = "Description";
 
 /* Class = "IBUILabel"; text = "copyrightLabel"; ObjectID = "jdm-hq-Wh3"; */
-"jdm-hq-Wh3.text" = "copyrightLabel";
+"jdm-hq-Wh3.text" = "Copyright: \n2014 © Christian Seiler Fotografía \nwww.christianseiler.ch";
 
 /* Class = "IBUILabel"; text = "Label"; ObjectID = "k5v-l5-lcB"; */
 "k5v-l5-lcB.text" = "Label";
 
-/* Class = "IBUILabel"; text = "YMCA YMCA Basel Basel"; ObjectID = "lzg-X6-Afo"; */
-"lzg-X6-Afo.text" = "YMCA YMCA Basel Basel";
+/* Class = "IBUILabel"; text = "YMCA Hostel Basel"; ObjectID = "lzg-X6-Afo"; */
+"lzg-X6-Afo.text" = "YMCA Hostel Basel \nGempenstrasse 64 \nCH-4053 Basilea";
 
 /* Class = "IBUILabel"; text = "Version: 1.1"; ObjectID = "n04-6W-IdV"; */
-"n04-6W-IdV.text" = "Version: 1.1";
+"n04-6W-IdV.text" = "Versión: 1.1";
 
 /* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "rhW-Mc-yLA"; */
 "rhW-Mc-yLA.text" = "Subtitle";
 
 /* Class = "IBUILabel"; text = "programmingLabel"; ObjectID = "tJl-Vq-eei"; */
-"tJl-Vq-eei.text" = "programmingLabel";
+"tJl-Vq-eei.text" = "Programación: \nChristian Seiler Fotografía \nstudio@christianseiler.ch \nwww.christianseiler.ch";
 
 /* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "zOC-je-2hj"; */
 "zOC-je-2hj.text" = "Subtitle";
+

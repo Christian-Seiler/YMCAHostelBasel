@@ -11,13 +11,12 @@
 #import <MapKit/MapKit.h>
 #import "MessageUI/MessageUI.h"
 #import "Reachability.h"
+#import <iAd/iAd.h>
 
 
-
-@interface ContactViewController : UIViewController<UIAlertViewDelegate, MKMapViewDelegate>
+@interface ContactViewController : UIViewController<UIAlertViewDelegate, MKMapViewDelegate, ADBannerViewDelegate>
 {
     MKMapView *mapView;
-
 }
 
 - (IBAction)mailButton:(id)sender;

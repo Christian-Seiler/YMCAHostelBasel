@@ -5,72 +5,72 @@
 "Action denied" = "Action denied";
 
 /* Airport Basel */
-"AirportAnnotation" = "AirportAnnotation";
+"AirportAnnotation" = "Aeropuerto de Basilea";
 
 /* OK - Alert back
    OK - Mailing configure */
-"AlertBack" = "Ok";
+"AlertBack" = "Volver";
 
 /* Ok - Alerts */
-"AlertOK" = "AlertOK";
+"AlertOK" = "Okay";
 
 /* Call Hostel */
-"Call" = "Call Hostel";
+"Call" = "Llame Hostel";
 
 /* Call Hostel */
-"Call Hostel" = "Call Hostel";
+"Call Hostel" = "Llame Hostel";
 
 /* Cancel */
-"CancelCall" = "Cancel";
+"CancelCall" = "Cancelar";
 
 /* rulesRoomsSectionHeader */
-"Houserules" = "Houserules";
+"Houserules" = "Reglas de la Casa";
 
 /* ImpressumTitle */
-"Impressum" = "Impressum";
+"Impressum" = "Pie de imprenta";
 
 /* MapView Networkerror */
-"NetworkError" = "NetworkError";
+"NetworkError" = "Error de red";
 
 /* No Internet available */
-"NetworkErrorMessage" = "NetworkErrorMessage";
+"NetworkErrorMessage" = "Vaya, los mapas no podían cargar. Por favor, compruebe su conexión a Internet.";
 
 /* price */
-"Price" = "Price";
+"Price" = "Precio";
 
 /* Reservation Navigation Title */
-"Reservation" = "Reservation";
+"Reservation" = "Reserva";
 
 /* roomsTitle */
-"Rooms" = "Rooms";
+"Rooms" = "Habitaciones";
 
 /* termsSectionHeader */
-"Terms" = "Terms";
+"Terms" = "Condiciones";
 
 /* agbTitle */
-"Terms & Conditions" = "Terms & Conditions";
+"Terms & Conditions" = "Términos y condiciones";
 
 /* Trainstation SBB */
-"TrainstationAnnotation" = "TrainstationAnnotation";
+"TrainstationAnnotation" = "Estación de tren de SBB";
 
 /* YMCA Hostel Basel */
-"YMCAAnnotation" = "YMCAAnnotation";
+"YMCAAnnotation" = "YMCA Hostel Basel";
 
 /* You need an iPhone to make the call */
-"You need an iPhone to make the call" = "Oops, You need an iPhone to start a call.";
+"You need an iPhone to make the call" = "Vaya, usted necesita un iPhone para iniciar una llamada.";
 
 /* Configure Mail */
-"configureMail" = "Configure Mail";
+"configureMail" = "Configurar correo";
 
 /* You need configure your Mail. */
-"configureMailMessage." = "Oops, You need to configure your Mail.";
+"configureMailMessage." = "Vaya, usted necesita configurar su correo.";
 
 /* dormsSectionHeader */
-"dorms" = "dorms";
+"dorms" = "dormitorios";
 
 /* privateRoomsSectionHeader */
-"private Rooms" = "Private Rooms";
+"private Rooms" = "Habitaciones privadas";
 
 /* studiosSectionHeader */
-"studios" = "Studios";
+"studios" = "Estudios";
 

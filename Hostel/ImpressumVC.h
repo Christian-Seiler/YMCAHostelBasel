@@ -10,7 +10,6 @@
 
 @interface ImpressumVC : UIViewController
 
-@property (strong, nonatomic) IBOutlet UIWebView *creditsView;
 @property (strong, nonatomic) IBOutlet UILabel *versionLabel;
 
 - (IBAction)termsButton:(id)sender;

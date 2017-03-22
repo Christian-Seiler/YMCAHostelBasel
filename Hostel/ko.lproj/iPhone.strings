@@ -1,69 +1,78 @@
-
 /* Class = "IBUITabBarItem"; title = "Reservation"; ObjectID = "2Lc-Te-3El"; */
-"2Lc-Te-3El.title" = "Reservation";
+"2Lc-Te-3El.title" = "예약";
 
-/* Class = "IBUILabel"; text = "bookinglabel"; ObjectID = "87Q-Xq-iYs"; */
-"87Q-Xq-iYs.text" = "bookinglabel";
+/* Class = "IBUILabel"; text = "bookingLabel"; ObjectID = "87Q-Xq-iYs"; */
+"87Q-Xq-iYs.text" = "예약 : \ninfo@ymcahostelbasel.ch";
+
+/* Class = "IBUILabel"; text = "Description"; ObjectID = "8em-va-YSf"; */
+"8em-va-YSf.text" = "설명";
 
 /* Class = "IBUITabBarItem"; title = "Impressum"; ObjectID = "9AF-MJ-rxa"; */
-"9AF-MJ-rxa.title" = "Impressum";
+"9AF-MJ-rxa.title" = "상표";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "AXg-HR-m9x"; */
+"AXg-HR-m9x.text" = "Label";
 
 /* Class = "IBUIBarButtonItem"; title = "Back"; ObjectID = "Ajt-2J-e3v"; */
-"Ajt-2J-e3v.title" = "Back";
+"Ajt-2J-e3v.title" = "돌아 가기";
 
 /* Class = "IBUILabel"; text = "informationLabel"; ObjectID = "FmH-dz-8ri"; */
-"FmH-dz-8ri.text" = "informationLabel";
+"FmH-dz-8ri.text" = "정보 : \nYMCA 호스텔 바젤 \nGempenstrasse 64 \nCH-5034 바젤 \ninfo@ymcahostelbasel.ch";
 
-/* Class = "IBUILabel"; text = "Please wait..."; ObjectID = "GLi-rC-dk6"; */
-"GLi-rC-dk6.text" = "Please wait...";
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "G75-40-p2i"; */
+"G75-40-p2i.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "GLi-rC-dk6"; */
+"GLi-rC-dk6.text" = "기다려주십시오 ...";
 
 /* Class = "IBUIButton"; normalTitle = "mail"; ObjectID = "LDd-gr-QTN"; */
-"LDd-gr-QTN.normalTitle" = "mail";
+"LDd-gr-QTN.normalTitle" = "이메일 보내기";
 
 /* Class = "IBUIButton"; normalTitle = "call"; ObjectID = "MxO-ht-5wA"; */
-"MxO-ht-5wA.normalTitle" = "call";
+"MxO-ht-5wA.normalTitle" = "전화 호스텔";
 
 /* Class = "IBUILabel"; text = "Price"; ObjectID = "NHP-6R-pk6"; */
-"NHP-6R-pk6.text" = "Price";
+"NHP-6R-pk6.text" = "가격";
 
 /* Class = "IBUILabel"; text = "Title"; ObjectID = "P7p-CB-ap4"; */
 "P7p-CB-ap4.text" = "Title";
 
 /* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "RjX-fS-pff"; */
-"RjX-fS-pff.normalTitle" = "Button";
+"RjX-fS-pff.normalTitle" = "이용 약관";
 
 /* Class = "IBUITabBarItem"; title = "Rooms"; ObjectID = "SiY-xG-Rmt"; */
-"SiY-xG-Rmt.title" = "Rooms";
+"SiY-xG-Rmt.title" = "방";
 
-/* Class = "IBUILabel"; text = "bookinglabel"; ObjectID = "atw-66-KcG"; */
-"atw-66-KcG.text" = "bookinglabel";
+/* Class = "IBUILabel"; text = "legalLabel"; ObjectID = "atw-66-KcG"; */
+"atw-66-KcG.text" = "참고 : 기독교 일러 사진은 YMCA 호스텔 바젤 관련된 방법이 있습니다. 앱 기독교 일러 사진의 법적 속성입니다. 회사는 모든 오류의 책임을 할 수 없습니다.";
 
 /* Class = "IBUILabel"; text = "Title"; ObjectID = "ayg-Uz-J4D"; */
 "ayg-Uz-J4D.text" = "Title";
 
 /* Class = "IBUITabBarItem"; title = "Contact"; ObjectID = "btv-6x-N9n"; */
-"btv-6x-N9n.title" = "Contact";
+"btv-6x-N9n.title" = "연락";
 
 /* Class = "IBUITextView"; text = "Description"; ObjectID = "dAi-Jv-644"; */
 "dAi-Jv-644.text" = "Description";
 
 /* Class = "IBUILabel"; text = "copyrightLabel"; ObjectID = "jdm-hq-Wh3"; */
-"jdm-hq-Wh3.text" = "copyrightLabel";
+"jdm-hq-Wh3.text" = "저작권 : \n2014 © 기독교 일러 사진 \nwww.christianseiler.ch";
 
 /* Class = "IBUILabel"; text = "Label"; ObjectID = "k5v-l5-lcB"; */
 "k5v-l5-lcB.text" = "Label";
 
-/* Class = "IBUILabel"; text = "YMCA YMCA Basel Basel"; ObjectID = "lzg-X6-Afo"; */
-"lzg-X6-Afo.text" = "YMCA YMCA Basel Basel";
+/* Class = "IBUILabel"; text = "YMCA Hostel Basel"; ObjectID = "lzg-X6-Afo"; */
+"lzg-X6-Afo.text" = "YMCA 호스텔 바젤 \nGempenstrasse 64 \nCH-4053 바젤";
 
 /* Class = "IBUILabel"; text = "Version: 1.1"; ObjectID = "n04-6W-IdV"; */
-"n04-6W-IdV.text" = "Version: 1.1";
+"n04-6W-IdV.text" = "버전 : 1.1";
 
 /* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "rhW-Mc-yLA"; */
 "rhW-Mc-yLA.text" = "Subtitle";
 
 /* Class = "IBUILabel"; text = "programmingLabel"; ObjectID = "tJl-Vq-eei"; */
-"tJl-Vq-eei.text" = "programmingLabel";
+"tJl-Vq-eei.text" = "프로그래밍 : \n기독교 일러 사진 \nstudio@christianseiler.ch \nwww.christianseiler.ch";
 
 /* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "zOC-je-2hj"; */
 "zOC-je-2hj.text" = "Subtitle";
+

@@ -8,8 +8,6 @@
 
 #import "IAPHelper.h"
 
-#import <StoreKit/StoreKit.h>
-
 @interface IAPHelper () <SKProductsRequestDelegate, SKPaymentTransactionObserver>
 
 @end
